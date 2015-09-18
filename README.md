@@ -4,3 +4,5 @@ Lab Solutions for CSCI 3308
 
 Alex Ring
 Git Lab
+
+This might cause a merge conflict
