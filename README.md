@@ -6,4 +6,5 @@ Alex Ring
 Git Lab
 
 This might cause a merge conflict
+
 Partner: Nicolas Carson
